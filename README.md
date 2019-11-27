@@ -19,6 +19,7 @@ Set je v MN DATABASE sestavljen iz dveh podatkov, eden izmed njih je slika rezol
 1. Teorija
 
 Ai bo zahteval precej poglablanja v matematiko in ostalega teoretičnega znanja. Nekaj tega predznanja že imam, kljub temu pa pričakujem, da bom tukaj preživel največ časa. Vse te informacije bodo zbrane v sekciji UVOD.
+9
 2. Osnovna koda Ai
 
 Osnovno Ai drevo in implementacija *Neuronov, Povezav, računanja napake (cost function), uvoza podatkov...* 
@@ -28,9 +29,11 @@ Ai bo sprogramiran v obliki dva sloja po 16 neuronov in 10 iztopnih neuronov. Vs
 3. Test na manjših količinah podatkov
 
 Najprej bom Ai testiral na pribljižno 10ih setih in te podatke beležil. Tukaj nastopi tudi razhroščevanje kode.
+
 4. Učenje AI-ja
 
 Ai se bo učil na skupini setov SD-1, tokrat z vsemi podatki. Test uspešnosti bo narejen na skupini SD-2.
+
 5. DODATEK: Vizualizacija AI-ja
 
 Drevo in povezave ter delovanje Ai-ja bom poizkušal tudi grafično pokazati.
