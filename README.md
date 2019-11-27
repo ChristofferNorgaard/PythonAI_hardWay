@@ -2,7 +2,7 @@
 ### Povzetek - Abstract
 Namen tega projekta je narediti AI za prepoznavanje napisanih številk iz baze podatkov 
 [THE MNIST DATABASE of handwritten digits](http://yann.lecun.com/exdb/mnist/).
-Program bo napisan v Python-u, vendar pa **ne bo** uporabljal knjižnic, ki so namenjene ustvarjanju AI-jov. Tako bodo vsi deli implementirani v kodi sami. Končni produkt bo AI, ki bo znal za dano napisano številko poveedati za katero gre z več ko 50% verijetnostjo. (Cilj tega projekti ni postavljen preveč visoko z razlogom). 
+Program bo napisan v Python-u, vendar pa **ne bo** uporabljal knjižnic, ki so namenjene ustvarjanju AI-jov. Tako bodo vsi deli implementirani v kodi sami. Končni produkt bo AI, ki bo znal za dano napisano številko povedati za katero gre z več ko 50% verijetnostjo. (Cilj tega projekti ni postavljen preveč visoko z razlogom). 
 
 ## Postopek programiranja
 ### Podatki
