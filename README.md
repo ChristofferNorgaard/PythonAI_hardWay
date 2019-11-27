@@ -24,6 +24,7 @@ Ai bo zahteval precej poglablanja v matematiko in ostalega teoretičnega znanja.
 Osnovno Ai drevo in implementacija *Neuronov, Povezav, računanja napake (cost function), uvoza podatkov...* 
 
 Ai bo sprogramiran v obliki dva sloja po 16 neuronov in 10 iztopnih neuronov. Vsak pixel je svoj vstopni neuron.
+
 3. Test na manjših količinah podatkov
 
 Najprej bom Ai testiral na pribljižno 10ih setih in te podatke beležil. Tukaj nastopi tudi razhroščevanje kode.
